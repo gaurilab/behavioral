@@ -130,3 +130,10 @@ https://www.educative.io/courses/grokking-the-behavioral-interview/xlmMRkMwgyJ
 
 ==================================================================
 	26. time I missed a deadline
+
+
+
+
+
+
+-------
